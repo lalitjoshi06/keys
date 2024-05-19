@@ -6,7 +6,7 @@ import logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
 # Constants
-API_URL = "https://tplayapi.code-crafters.app/321codecrafters/fetcher.json"
+API_URL = "https://khusifof.github.io/API/fetcher.json"
 RETRIES = 3
 
 def fetch_api(url, retries):
